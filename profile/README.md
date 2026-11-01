@@ -9,7 +9,7 @@ VMArea is a cloud hosting provider. Fixed monthly prices in your currency, no lo
 - **One-click apps**: popular apps, ready on first boot.
 - **Firewalls**: stateful, default-deny inbound, with rules you control.
 - **Snapshots and backups**: restore points and daily copies.
-- **API and webhooks**: a REST API with scoped keys for everything in the dashboard, and signed events.
+- **API and webhooks**: a REST API with scoped keys and signed webhook events, in early access.
 
 ## Open source
 

@@ -1,7 +1,0 @@
-GitHub organisation profile settings (Settings > General > Profile)
-
-Display name: VMArea
-Description: Cloud VPS, dedicated servers and one-click apps at fixed monthly prices. Open-source installers and SDKs for the VMArea platform.
-Website: https://vmarea.com
-Email: hello@vmarea.com
-Location: United Kingdom
