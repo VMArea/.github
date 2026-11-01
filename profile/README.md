@@ -13,7 +13,7 @@ VMArea is a cloud hosting provider. Fixed monthly prices in your currency, no lo
 
 ## Open source
 
-- `app-recipes`: hardened one-shot installers for 14 open-source apps on Ubuntu 24.04. Coming soon.
+- [`app-recipes`](https://github.com/VMArea/app-recipes): hardened one-shot installers for 14 open-source apps on Ubuntu 24.04.
 - `vmarea-js`: a TypeScript SDK and the `vmarea` CLI for the public API. Coming soon.
 
 ## Links
