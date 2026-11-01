@@ -1,6 +1,6 @@
 # Security policy
 
-If you believe you have found a security vulnerability in a VMArea repository or in VMArea-operated systems, email [hello@vmarea.com](mailto:hello@vmarea.com). Please do not open a public issue, post on social media, or raise it in a support ticket before we have had a chance to respond.
+If you believe you have found a security vulnerability in a VMArea repository or in VMArea-operated systems, email [security@vmarea.com](mailto:security@vmarea.com). Please do not open a public issue, post on social media, or raise it in a support ticket before we have had a chance to respond.
 
 ## What to include
 
